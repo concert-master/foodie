@@ -1,7 +1,7 @@
-title: Foodie's Pick,
+title: Foodie's Pick
 logo: /assets/img/logo.png
-description: A personal Guide to good restaurants and bars.
-show_downloads: true
+description: A personal guide to good restaurants and bars.
+show_downloads: false
 google_analytics:
 #theme: jekyll-theme-minimal
 
