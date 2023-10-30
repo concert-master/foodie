@@ -1,0 +1,6 @@
+title: Foodie's Pic,
+logo: /assets/img/logo.png
+description: Use Minimal theme.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
